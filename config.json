@@ -1,4 +1,4 @@
 {
   "db_name": "prod_db",
-  "port": 5444
+  "port": 5432
 }
